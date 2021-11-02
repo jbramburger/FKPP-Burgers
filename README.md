@@ -1,4 +1,4 @@
-This repository contains the MATLAB files to reproduce the data and figures from "The speed of traveling waves in a FKPP-Burgers system" by Jason J. Bramburger and Christopher Henderson (2020).
+This repository contains the MATLAB files to reproduce the data and figures from [**The speed of traveling waves in a FKPP-Burgers system**](https://link.springer.com/article/10.1007/s00205-021-01660-5) by Jason J. Bramburger and Christopher Henderson (Archive for Rational Mechanics and Analysis, 2021).
 
 Computations use YALMIP version R20190425 to translate the SOS constraints into semidefinite programs and these are solved using Mosek version 9.0. These programs are publicly available at:
 
